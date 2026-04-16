@@ -1,0 +1,6 @@
+python-binance==1.0.19
+python-dotenv==1.0.0
+requests
+aiohttp==3.8.1
+yarl==1.7.2
+multidict==5.2.0
