@@ -4,8 +4,6 @@
 
 This project is a CLI-based Python application that allows users to place MARKET and LIMIT orders on the Binance Futures Testnet (USDT-M). The application is designed with a modular structure, proper logging, input validation, and error handling.
 
-**Base URL used:**  
-https://demo-fapi.binance.com
 
 ---
 
